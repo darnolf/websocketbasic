@@ -16,5 +16,3 @@ Open several windows with same url and check how changes synchronize across all 
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 ```
-
-
